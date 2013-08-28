@@ -96,7 +96,7 @@ Rock Reaktor Archive
       -  27%
       -  08 abr 2013
     * -  331
-      -  `¿Walk This Way?  <http://www.rtve.es/alacarta/audios/rock-reaktor/rock-reaktor-walk-this-way-18-03-13/1724268/>`_
+      -  `¿Walk This Way? <http://www.rtve.es/alacarta/audios/rock-reaktor/rock-reaktor-walk-this-way-18-03-13/1724268/>`_
       -  `58:28 <http://mvod.lvlt.rtve.es/resources/TE_SROCKRE/mp3/9/3/1363590559139.mp3>`_
       -  40%
       -  18 mar 2013
@@ -221,17 +221,17 @@ Rock Reaktor Archive
       -  36%
       -  17 sep 2012
     * -  306
-      -  `¿Stairway to Heaven?  <http://www.rtve.es/alacarta/audios/rock-reaktor/rock-reaktor-stairway-to-heaven-10-09-12/1523781/>`_
+      -  `¿Stairway to Heaven? <http://www.rtve.es/alacarta/audios/rock-reaktor/rock-reaktor-stairway-to-heaven-10-09-12/1523781/>`_
       -  `58:55 <http://mvod.lvlt.rtve.es/resources/TE_SROCKRE/mp3/5/0/1347262792905.mp3>`_
       -  61%
       -  10 sep 2012
     * -  305
-      -  `Stephen O' Malley  <http://www.rtve.es/alacarta/audios/rock-reaktor/rock-reaktor-stephen-malley-creador-tinieblas-03-09-12/1518820/>`_
+      -  `Stephen O' Malley <http://www.rtve.es/alacarta/audios/rock-reaktor/rock-reaktor-stephen-malley-creador-tinieblas-03-09-12/1518820/>`_
       -  `58:54 <http://mvod.lvlt.rtve.es/resources/TE_SROCKRE/mp3/0/2/1346655304320.mp3>`_
       -  33%
       -  03 sep 2012
     * -  304
-      -  `Rock of Ages: ¡Tom Cruise se sale!  <http://www.rtve.es/alacarta/audios/rock-reaktor/rock-reaktor-rock-of-ages-tom-cruise-se-sale-27-08-12/1513974/>`_
+      -  `Rock of Ages: ¡Tom Cruise se sale! <http://www.rtve.es/alacarta/audios/rock-reaktor/rock-reaktor-rock-of-ages-tom-cruise-se-sale-27-08-12/1513974/>`_
       -  `58:59 <http://mvod.lvlt.rtve.es/resources/TE_SROCKRE/mp3/4/6/1346048301864.mp3>`_
       -  51%
       -  27 ago 2012
@@ -241,7 +241,7 @@ Rock Reaktor Archive
       -  53%
       -  23 jul 2012
     * -  302
-      -  `Descubierta vida rock en Salt Lake  <http://www.rtve.es/alacarta/audios/rock-reaktor/rock-reaktor-descubierta-vida-rock-salt-lake-city-09-07-12/1458214/>`_
+      -  `Descubierta vida rock en Salt Lake <http://www.rtve.es/alacarta/audios/rock-reaktor/rock-reaktor-descubierta-vida-rock-salt-lake-city-09-07-12/1458214/>`_
       -  `58:47 <http://mvod.lvlt.rtve.es/resources/TE_SROCKRE/mp3/5/6/1341813591165.mp3>`_
       -  33%
       -  09 jul 2012
@@ -256,7 +256,7 @@ Rock Reaktor Archive
       -  48%
       -  25 jun 2012
     * -  299
-      -  `¿Foxy Lady?  <http://www.rtve.es/alacarta/audios/rock-reaktor/rock-reaktor-foxy-lady-18-06-12/1439639/>`_
+      -  `¿Foxy Lady? <http://www.rtve.es/alacarta/audios/rock-reaktor/rock-reaktor-foxy-lady-18-06-12/1439639/>`_
       -  `58:56 <http://mvod.lvlt.rtve.es/resources/TE_SROCKRE/mp3/7/7/1339999948877.mp3>`_
       -  58%
       -  18 jun 2012
@@ -296,7 +296,7 @@ Rock Reaktor Archive
       -  67%
       -  23 abr 2012
     * -  291
-      -  `M de Morbid Angel  <http://www.rtve.es/alacarta/audios/rock-reaktor/rokc-reaktor-090412/1370731/>`_
+      -  `M de Morbid Angel <http://www.rtve.es/alacarta/audios/rock-reaktor/rokc-reaktor-090412/1370731/>`_
       -  `58:45 <http://mvod.lvlt.rtve.es/resources/TE_SROCKRE/mp3/0/8/1333949672780.mp3>`_
       -  51%
       -  09 abr 2012
@@ -311,7 +311,7 @@ Rock Reaktor Archive
       -  39%
       -  26 mar 2012
     * -  288
-      -  `Green Day en directo  <http://www.rtve.es/alacarta/audios/rock-reaktor/rock-reaktor-green-day-directo-20-anos-tope-19-03-12/1352663/>`_
+      -  `Green Day en directo <http://www.rtve.es/alacarta/audios/rock-reaktor/rock-reaktor-green-day-directo-20-anos-tope-19-03-12/1352663/>`_
       -  `58:54 <http://mvod.lvlt.rtve.es/resources/TE_SROCKRE/mp3/5/0/1332140630805.mp3>`_
       -  41%
       -  19 mar 2012
@@ -336,7 +336,7 @@ Rock Reaktor Archive
       -  40%
       -  20 feb 2012
     * -  283
-      -  `King Crimson. Montreal. 1984  <http://www.rtve.es/alacarta/audios/rock-reaktor/rock-reator-130212/1320426/>`_
+      -  `King Crimson. Montreal. 1984 <http://www.rtve.es/alacarta/audios/rock-reaktor/rock-reator-130212/1320426/>`_
       -  `1:58:16 <http://mvod.lvlt.rtve.es/resources/TE_SROCKRE/mp3/5/2/1329116015725.mp3>`_
       -  62%
       -  13 feb 2012
@@ -351,17 +351,17 @@ Rock Reaktor Archive
       -  49%
       -  30 ene 2012
     * -  280
-      -  `Del hardcore al post-rock  <http://www.rtve.es/alacarta/audios/rock-reaktor/rock-reaktor-magic-bullet-records-del-hardcore-post-rock-23-01-12/1301026/>`_
+      -  `Del hardcore al post-rock <http://www.rtve.es/alacarta/audios/rock-reaktor/rock-reaktor-magic-bullet-records-del-hardcore-post-rock-23-01-12/1301026/>`_
       -  `58:59 <http://mvod.lvlt.rtve.es/resources/TE_SROCKRE/mp3/8/4/1327302342048.mp3>`_
       -  36%
       -  23 ene 2012
     * -  279
-      -  `Transformers 3: B.S.O.  <http://www.rtve.es/alacarta/audios/rock-reaktor/rock-reaktor-transformers-3-bso-15-01-12/1295008/>`_
+      -  `Transformers 3: B.S.O. <http://www.rtve.es/alacarta/audios/rock-reaktor/rock-reaktor-transformers-3-bso-15-01-12/1295008/>`_
       -  `59:00 <http://mvod.lvlt.rtve.es/resources/TE_SROCKRE/mp3/1/9/1326696877891.mp3>`_
       -  47%
       -  16 ene 2012
     * -  278
-      -  `¿The Number of the Beast?  <http://www.rtve.es/alacarta/audios/rock-reaktor/rock-reaktor-the-number-of-the-beast-09-01-12/1289477/>`_
+      -  `¿The Number of the Beast? <http://www.rtve.es/alacarta/audios/rock-reaktor/rock-reaktor-the-number-of-the-beast-09-01-12/1289477/>`_
       -  `59:04 <http://mvod.lvlt.rtve.es/resources/TE_SROCKRE/mp3/1/4/1326096729841.mp3>`_
       -  33%
       -  09 ene 2012
@@ -381,7 +381,7 @@ Rock Reaktor Archive
       -  33%
       -  12 dic 2011
     * -  274
-      -  `Lentos, oscuros y chungos  <http://www.rtve.es/alacarta/audios/rock-reaktor/rock-reaktor-trust-one-records-lentos-oscuros-chungos-05-12-11/1265556/>`_
+      -  `Lentos, oscuros y chungos <http://www.rtve.es/alacarta/audios/rock-reaktor/rock-reaktor-trust-one-records-lentos-oscuros-chungos-05-12-11/1265556/>`_
       -  `58:58 <http://mvod.lvlt.rtve.es/resources/TE_SROCKRE/mp3/2/5/1323072022552.mp3>`_
       -  33%
       -  05 dic 2011
@@ -401,7 +401,7 @@ Rock Reaktor Archive
       -  41%
       -  14 nov 2011
     * -  270
-      -  `Homenaje a Steve Lee de Gotthard  <http://www.rtve.es/alacarta/audios/rock-reaktor/rock-reaktor-homenaje-steve-lee-gotthard-07-11-11/1242584/>`_
+      -  `Homenaje a Steve Lee de Gotthard <http://www.rtve.es/alacarta/audios/rock-reaktor/rock-reaktor-homenaje-steve-lee-gotthard-07-11-11/1242584/>`_
       -  `58:56 <http://mvod.lvlt.rtve.es/resources/TE_SROCKRE/mp3/2/9/1320648354392.mp3>`_
       -  32%
       -  07 nov 2011
@@ -411,7 +411,7 @@ Rock Reaktor Archive
       -  37%
       -  31 oct 2011
     * -  268
-      -  `AOR for Japan  <http://www.rtve.es/alacarta/audios/rock-reaktor/rock-reaktor-aor-for-japan-24-10-11/1231108/>`_
+      -  `AOR for Japan <http://www.rtve.es/alacarta/audios/rock-reaktor/rock-reaktor-aor-for-japan-24-10-11/1231108/>`_
       -  `58:53 <http://mvod.lvlt.rtve.es/resources/TE_SROCKRE/mp3/6/4/1319434694046.mp3>`_
       -  32%
       -  24 oct 2011
@@ -421,7 +421,7 @@ Rock Reaktor Archive
       -  58%
       -  17 oct 2011
     * -  266
-      -  `Planazo: ¡tributo a AC/DC!  <http://www.rtve.es/alacarta/audios/rock-reaktor/rock-reaktor-planazo-tributo-ac-dc-10-10-11/1219124/>`_
+      -  `Planazo: ¡tributo a AC/DC! <http://www.rtve.es/alacarta/audios/rock-reaktor/rock-reaktor-planazo-tributo-ac-dc-10-10-11/1219124/>`_
       -  `58:54 <http://mvod.lvlt.rtve.es/resources/TE_SROCKRE/mp3/0/2/1318226048420.mp3>`_
       -  70%
       -  10 oct 2011
@@ -431,7 +431,7 @@ Rock Reaktor Archive
       -  32%
       -  03 oct 2011
     * -  264
-      -  `Whitesnake, 1990, Donington  <http://www.rtve.es/alacarta/audios/rock-reaktor/rock-reaktor-whitesnake-1990-donington-directo-26-09-11/1206705/>`_
+      -  `Whitesnake, 1990, Donington <http://www.rtve.es/alacarta/audios/rock-reaktor/rock-reaktor-whitesnake-1990-donington-directo-26-09-11/1206705/>`_
       -  `58:50 <http://mvod.lvlt.rtve.es/resources/TE_SROCKRE/mp3/6/1/1317018076516.mp3>`_
       -  74%
       -  26 sep 2011
@@ -446,7 +446,7 @@ Rock Reaktor Archive
       -  42%
       -  12 sep 2011
     * -  261
-      -  `Más azúcar, más: baladas hard rock  <http://www.rtve.es/alacarta/audios/rock-reaktor/rock-reaktor-mas-azucar-mas-baladas-hard-rock-05-09-11/1189274/>`_
+      -  `Más azúcar, más: baladas hard rock <http://www.rtve.es/alacarta/audios/rock-reaktor/rock-reaktor-mas-azucar-mas-baladas-hard-rock-05-09-11/1189274/>`_
       -  `59:03 <http://mvod.lvlt.rtve.es/resources/TE_SROCKRE/mp3/0/3/1315204227130.mp3>`_
       -  33%
       -  05 sep 2011
@@ -461,7 +461,7 @@ Rock Reaktor Archive
       -  33%
       -  24 ago 2011
     * -  258
-      -  `Prog around the world   <http://www.rtve.es/alacarta/audios/rock-reaktor/rock-reaktor-prog-around-the-world-22-08-11/1179217/>`_
+      -  `Prog around the world <http://www.rtve.es/alacarta/audios/rock-reaktor/rock-reaktor-prog-around-the-world-22-08-11/1179217/>`_
       -  `59:02 <http://mvod.lvlt.rtve.es/resources/TE_SROCKRE/mp3/1/5/1314002984651.mp3>`_
       -  32%
       -  22 ago 2011
@@ -481,7 +481,7 @@ Rock Reaktor Archive
       -  35%
       -  06 jul 2011
     * -  254
-      -  `Cavity Records  <http://www.rtve.es/alacarta/audios/rock-reaktor/rock-reaktor-cavity-records-del-post-rock-post-metal-04-07-11/1144728/>`_
+      -  `Cavity Records <http://www.rtve.es/alacarta/audios/rock-reaktor/rock-reaktor-cavity-records-del-post-rock-post-metal-04-07-11/1144728/>`_
       -  `59:00 <http://mvod.lvlt.rtve.es/resources/TE_SROCKRE/mp3/3/2/1309766007823.mp3>`_
       -  32%
       -  04 jul 2011
@@ -511,7 +511,7 @@ Rock Reaktor Archive
       -  32%
       -  13 jun 2011
     * -  248
-      -  `Marilyn Manson  <http://www.rtve.es/alacarta/audios/rock-reaktor/rock-reaktor-marilyn-manson-historia-llena-leyendas-08-06-11/1123262/>`_
+      -  `Marilyn Manson <http://www.rtve.es/alacarta/audios/rock-reaktor/rock-reaktor-marilyn-manson-historia-llena-leyendas-08-06-11/1123262/>`_
       -  `59:04 <http://mvod.lvlt.rtve.es/resources/TE_SROCKRE/mp3/7/3/1307519081437.mp3>`_
       -  36%
       -  08 jun 2011
@@ -551,12 +551,12 @@ Rock Reaktor Archive
       -  32%
       -  16 may 2011
     * -  240
-      -  `¿Born to be Wild?  <http://www.rtve.es/alacarta/audios/rock-reaktor/rock-reaktor-born-to-be-wild-11-05-11/1097094/>`_
+      -  `¿Born to be Wild? <http://www.rtve.es/alacarta/audios/rock-reaktor/rock-reaktor-born-to-be-wild-11-05-11/1097094/>`_
       -  `59:00 <http://mvod.lvlt.rtve.es/resources/TE_SROCKRE/mp3/5/7/1305094450975.mp3>`_
       -  36%
       -  11 may 2011
     * -  239
-      -  `The Hills have Eyes 2: BSO  <http://www.rtve.es/alacarta/audios/rock-reaktor/rock-reaktor-the-hills-have-eyes-2-bso-09-05-11/1094847/>`_
+      -  `The Hills have Eyes 2: BSO <http://www.rtve.es/alacarta/audios/rock-reaktor/rock-reaktor-the-hills-have-eyes-2-bso-09-05-11/1094847/>`_
       -  `59:00 <http://mvod.lvlt.rtve.es/resources/TE_SROCKRE/mp3/3/5/1304923556253.mp3>`_
       -  32%
       -  09 may 2011
@@ -576,7 +576,7 @@ Rock Reaktor Archive
       -  32%
       -  18 abr 2011
     * -  235
-      -  `Igualico, igualico que los Ramones  <http://www.rtve.es/alacarta/audios/rock-reaktor/rock-reaktor-igualico-igualico-ramones-11-04-11/1071207/>`_
+      -  `Igualico, igualico que los Ramones <http://www.rtve.es/alacarta/audios/rock-reaktor/rock-reaktor-igualico-igualico-ramones-11-04-11/1071207/>`_
       -  `58:58 <http://mvod.lvlt.rtve.es/resources/TE_SROCKRE/mp3/9/6/1302551617469.mp3>`_
       -  32%
       -  11 abr 2011
@@ -631,7 +631,7 @@ Rock Reaktor Archive
       -  32%
       -  02 mar 2011
     * -  224
-      -  `Metal Industrial - 28/02/11     <http://www.rtve.es/alacarta/audios/rock-reaktor/rock-reaktor-metal-industrial-distorsion-fabrica-28-02-11/1031865/>`_
+      -  `Metal Industrial - 28/02/11 <http://www.rtve.es/alacarta/audios/rock-reaktor/rock-reaktor-metal-industrial-distorsion-fabrica-28-02-11/1031865/>`_
       -  `58:55 <http://mvod.lvlt.rtve.es/resources/TE_SROCKRE/mp3/6/4/1298880229746.mp3>`_
       -  32%
       -  28 feb 2011
@@ -656,7 +656,7 @@ Rock Reaktor Archive
       -  32%
       -  14 feb 2011
     * -  219
-      -  `Gary Moore, que estás en el cielo  <http://www.rtve.es/alacarta/audios/rock-reaktor/rock-reaktor-gary-moore-estas-cielo-09-02-11/1010693/>`_
+      -  `Gary Moore, que estás en el cielo <http://www.rtve.es/alacarta/audios/rock-reaktor/rock-reaktor-gary-moore-estas-cielo-09-02-11/1010693/>`_
       -  `59:56 <http://mvod.lvlt.rtve.es/resources/TE_SROCKRE/mp3/2/5/1297234988552.mp3>`_
       -  32%
       -  09 feb 2011
@@ -671,12 +671,12 @@ Rock Reaktor Archive
       -  32%
       -  02 feb 2011
     * -  216
-      -  `Cosecha metal de 1986  <http://www.rtve.es/alacarta/audios/rock-reaktor/rock-reaktor-310111/1001891/>`_
+      -  `Cosecha metal de 1986 <http://www.rtve.es/alacarta/audios/rock-reaktor/rock-reaktor-310111/1001891/>`_
       -  `59:56 <http://mvod.lvlt.rtve.es/resources/TE_SROCKRE/mp3/5/9/1296458970095.mp3>`_
       -  32%
       -  31 ene 2011
     * -  215
-      -  `Maquillaje por un tubo: tributo a  <http://www.rtve.es/alacarta/audios/rock-reaktor/rock-reaktor-maquillaje-tubo-tributo-kiss-26-01-11/997582/>`_
+      -  `Maquillaje por un tubo: tributo a <http://www.rtve.es/alacarta/audios/rock-reaktor/rock-reaktor-maquillaje-tubo-tributo-kiss-26-01-11/997582/>`_
       -  `59:54 <http://mvod.lvlt.rtve.es/resources/TE_SROCKRE/mp3/3/1/1296024328213.mp3>`_
       -  32%
       -  26 ene 2011
@@ -686,12 +686,12 @@ Rock Reaktor Archive
       -  32%
       -  24 ene 2011
     * -  213
-      -  `Héroes del Silencio - 19/01/11  <http://www.rtve.es/alacarta/audios/rock-reaktor/rock-reaktor-amas-odias-heroes-del-silencio-19-01-11/991470/>`_
+      -  `Héroes del Silencio - 19/01/11 <http://www.rtve.es/alacarta/audios/rock-reaktor/rock-reaktor-amas-odias-heroes-del-silencio-19-01-11/991470/>`_
       -  `59:55 <http://mvod.lvlt.rtve.es/resources/TE_SROCKRE/mp3/6/7/1295422270376.mp3>`_
       -  33%
       -  19 ene 2011
     * -  212
-      -  `Jagjaguwar Records  <http://www.rtve.es/alacarta/audios/rock-reaktor/rock-reaktor-jagjaguwar-records-raro-nombre-raros-grupos-17-01-11/989326/>`_
+      -  `Jagjaguwar Records <http://www.rtve.es/alacarta/audios/rock-reaktor/rock-reaktor-jagjaguwar-records-raro-nombre-raros-grupos-17-01-11/989326/>`_
       -  `59:55 <http://mvod.lvlt.rtve.es/resources/TE_SROCKRE/mp3/8/9/1295248179998.mp3>`_
       -  32%
       -  17 ene 2011
@@ -706,7 +706,7 @@ Rock Reaktor Archive
       -  32%
       -  10 ene 2011
     * -  209
-      -  `Adiós Trustkill. Hola Bullet Tooth  <http://www.rtve.es/alacarta/audios/rock-reaktor/rock-reaktor-adios-trustkill-hola-bullet-tooth-records-05-01-11/980484/>`_
+      -  `Adiós Trustkill. Hola Bullet Tooth <http://www.rtve.es/alacarta/audios/rock-reaktor/rock-reaktor-adios-trustkill-hola-bullet-tooth-records-05-01-11/980484/>`_
       -  `59:55 <http://mvod.lvlt.rtve.es/resources/TE_SROCKRE/mp3/7/4/1294213077447.mp3>`_
       -  32%
       -  05 ene 2011
@@ -751,22 +751,22 @@ Rock Reaktor Archive
       -  33%
       -  29 nov 2010
     * -  200
-      -  ` Redfield Records - 24/11/10 <http://www.rtve.es/alacarta/audios/rock-reaktor/rock-reaktor-redfield-records-locomotora-alemana-post-hardcore-24-11-10/939366/>`_
+      -  `Redfield Records - 24/11/10 <http://www.rtve.es/alacarta/audios/rock-reaktor/rock-reaktor-redfield-records-locomotora-alemana-post-hardcore-24-11-10/939366/>`_
       -  `59:55 <http://mvod.lvlt.rtve.es/resources/TE_SROCKRE/mp3/2/3/1290585311332.mp3>`_
       -  32%
       -  24 nov 2010
     * -  199
-      -  `Desenchufa, desenchufa - 22/11/10  <http://www.rtve.es/alacarta/audios/rock-reaktor/rock-reaktor-desenchufa-desenchufa-22-11-10/938045/>`_
+      -  `Desenchufa, desenchufa - 22/11/10 <http://www.rtve.es/alacarta/audios/rock-reaktor/rock-reaktor-desenchufa-desenchufa-22-11-10/938045/>`_
       -  `59:56 <http://mvod.lvlt.rtve.es/resources/TE_SROCKRE/mp3/0/5/1290455052950.mp3>`_
       -  32%
       -  22 nov 2010
     * -  198
-      -  `Delicias de rareza: Zach Hill  <http://www.rtve.es/alacarta/audios/rock-reaktor/rock-reaktor-delicias-rareza-zach-hill-17-11-10/933011/>`_
+      -  `Delicias de rareza: Zach Hill <http://www.rtve.es/alacarta/audios/rock-reaktor/rock-reaktor-delicias-rareza-zach-hill-17-11-10/933011/>`_
       -  `59:58 <http://mvod.lvlt.rtve.es/resources/TE_SROCKRE/mp3/3/4/1289981444143.mp3>`_
       -  32%
       -  17 nov 2010
     * -  197
-      -  `Andy Sneap - 15/11/10  <http://www.rtve.es/alacarta/audios/rock-reaktor/rock-reaktor-andy-sneap-productor-metal-pata-negra-15-11-10/931119/>`_
+      -  `Andy Sneap - 15/11/10 <http://www.rtve.es/alacarta/audios/rock-reaktor/rock-reaktor-andy-sneap-productor-metal-pata-negra-15-11-10/931119/>`_
       -  `58:13 <http://mvod.lvlt.rtve.es/resources/TE_SROCKRE/mp3/0/8/1289817500380.mp3>`_
       -  32%
       -  15 nov 2010
@@ -776,7 +776,7 @@ Rock Reaktor Archive
       -  32%
       -  08 nov 2010
     * -  195
-      -  `¿Truco o trato? Halloween 2010   <http://www.rtve.es/alacarta/audios/rock-reaktor/rock-reaktor-truco-trato-halloween-2010-01-11-10/917102/>`_
+      -  `¿Truco o trato? Halloween 2010 <http://www.rtve.es/alacarta/audios/rock-reaktor/rock-reaktor-truco-trato-halloween-2010-01-11-10/917102/>`_
       -  `59:55 <http://mvod.lvlt.rtve.es/resources/TE_SROCKRE/mp3/0/0/1288595540700.mp3>`_
       -  32%
       -  01 nov 2010
@@ -786,12 +786,12 @@ Rock Reaktor Archive
       -  32%
       -  27 oct 2010
     * -  193
-      -  `Las novedades de Alone Records   <http://www.rtve.es/alacarta/audios/rock-reaktor/rock-reaktor-novedades-alone-records-dos-invitados-25-10-10/910787/>`_
+      -  `Las novedades de Alone Records <http://www.rtve.es/alacarta/audios/rock-reaktor/rock-reaktor-novedades-alone-records-dos-invitados-25-10-10/910787/>`_
       -  `59:54 <http://mvod.lvlt.rtve.es/resources/TE_SROCKRE/mp3/7/5/1287997556257.mp3>`_
       -  32%
       -  25 oct 2010
     * -  192
-      -  `Vamos a soñar despiertos...  <http://www.rtve.es/alacarta/audios/rock-reaktor/rock-reaktor-vamos-sonar-despiertos-20-10-10/906702/>`_
+      -  `Vamos a soñar despiertos... <http://www.rtve.es/alacarta/audios/rock-reaktor/rock-reaktor-vamos-sonar-despiertos-20-10-10/906702/>`_
       -  `57:28 <http://mvod.lvlt.rtve.es/resources/TE_SROCKRE/mp3/2/7/1287557370172.mp3>`_
       -  32%
       -  20 oct 2010
@@ -836,7 +836,7 @@ Rock Reaktor Archive
       -  32%
       -  22 sep 2010
     * -  183
-      -  `Los padres de todo el tinglado  <http://www.rtve.es/alacarta/audios/rock-reaktor/rock-reaktor-padres-todo-tinglado-rolling-stones-20-09-10/881281/>`_
+      -  `Los padres de todo el tinglado <http://www.rtve.es/alacarta/audios/rock-reaktor/rock-reaktor-padres-todo-tinglado-rolling-stones-20-09-10/881281/>`_
       -  `59:53 <http://mvod.lvlt.rtve.es/resources/TE_SROCKRE/mp3/8/4/1284967423748.mp3>`_
       -  32%
       -  20 sep 2010
@@ -846,7 +846,7 @@ Rock Reaktor Archive
       -  32%
       -  13 sep 2010
     * -  181
-      -  `Tributo a Groovie Ghoulies  <http://www.rtve.es/alacarta/audios/rock-reaktor/rock-reaktor-tributo-groovie-ghoulies-hasta-siempre-08-09-10/870920/>`_
+      -  `Tributo a Groovie Ghoulies <http://www.rtve.es/alacarta/audios/rock-reaktor/rock-reaktor-tributo-groovie-ghoulies-hasta-siempre-08-09-10/870920/>`_
       -  `59:55 <http://mvod.lvlt.rtve.es/resources/TE_SROCKRE/mp3/4/2/1283935737424.mp3>`_
       -  32%
       -  08 sep 2010
@@ -876,7 +876,7 @@ Rock Reaktor Archive
       -  32%
       -  04 ago 2010
     * -  175
-      -  `Bon Jovi nos enseña hard-rock  <http://www.rtve.es/alacarta/audios/rock-reaktor/rock-reaktor-profesor-bon-jovi-ensena-hard-rock-02-08-10/842668/>`_
+      -  `Bon Jovi nos enseña hard-rock <http://www.rtve.es/alacarta/audios/rock-reaktor/rock-reaktor-profesor-bon-jovi-ensena-hard-rock-02-08-10/842668/>`_
       -  `59:55 <http://mvod.lvlt.rtve.es/resources/TE_SROCKRE/mp3/4/3/1280735896234.mp3>`_
       -  32%
       -  02 ago 2010
@@ -906,12 +906,12 @@ Rock Reaktor Archive
       -  32%
       -  28 jun 2010
     * -  169
-      -  `Los teclistas de Dream Theater  <http://www.rtve.es/alacarta/audios/rock-reaktor/rock-reaktor-teclistas-dream-theater-23-06-10/808766/>`_
+      -  `Los teclistas de Dream Theater <http://www.rtve.es/alacarta/audios/rock-reaktor/rock-reaktor-teclistas-dream-theater-23-06-10/808766/>`_
       -  `59:55 <http://mvod.lvlt.rtve.es/resources/TE_SROCKRE/mp3/6/9/1277279866296.mp3>`_
       -  32%
       -  23 jun 2010
     * -  168
-      -  `¿Smells like teen spirit? -  <http://www.rtve.es/alacarta/audios/rock-reaktor/rock-reaktor-smells-like-teen-spirit-21-06-10/805991/>`_
+      -  `¿Smells like teen spirit? - <http://www.rtve.es/alacarta/audios/rock-reaktor/rock-reaktor-smells-like-teen-spirit-21-06-10/805991/>`_
       -  `59:55 <http://mvod.lvlt.rtve.es/resources/TE_SROCKRE/mp3/9/6/1277104228569.mp3>`_
       -  32%
       -  21 jun 2010
@@ -926,17 +926,17 @@ Rock Reaktor Archive
       -  32%
       -  14 jun 2010
     * -  165
-      -  `Las brutales huellas de Mike Amott  <http://www.rtve.es/alacarta/audios/rock-reaktor/rock-reaktor-brutales-huellas-mike-amott-09-06-10/794587/>`_
+      -  `Las brutales huellas de Mike Amott <http://www.rtve.es/alacarta/audios/rock-reaktor/rock-reaktor-brutales-huellas-mike-amott-09-06-10/794587/>`_
       -  `59:55 <http://mvod.lvlt.rtve.es/resources/TE_SROCKRE/mp3/9/8/1276074600489.mp3>`_
       -  32%
       -  09 jun 2010
     * -  164
-      -  `¿Te sabes esa de King Crimson?  <http://www.rtve.es/alacarta/audios/rock-reaktor/rock-reaktor-sabes-king-crimson-07-06-10/792036/>`_
+      -  `¿Te sabes esa de King Crimson? <http://www.rtve.es/alacarta/audios/rock-reaktor/rock-reaktor-sabes-king-crimson-07-06-10/792036/>`_
       -  `59:55 <http://mvod.lvlt.rtve.es/resources/TE_SROCKRE/mp3/5/9/1275899387095.mp3>`_
       -  32%
       -  07 jun 2010
     * -  163
-      -  `Mono, el coloso del post-rock  <http://www.rtve.es/alacarta/audios/rock-reaktor/rock-reaktor-mono-coloso-japones-del-post-rock-02-06-10/788462/>`_
+      -  `Mono, el coloso del post-rock <http://www.rtve.es/alacarta/audios/rock-reaktor/rock-reaktor-mono-coloso-japones-del-post-rock-02-06-10/788462/>`_
       -  `59:59 <http://mvod.lvlt.rtve.es/resources/TE_SROCKRE/mp3/0/0/1275470143300.mp3>`_
       -  32%
       -  02 jun 2010
@@ -961,7 +961,7 @@ Rock Reaktor Archive
       -  32%
       -  17 may 2010
     * -  158
-      -  `Extreme, ¡qué bueno que volviste!  <http://www.rtve.es/alacarta/audios/rock-reaktor/rock-reaktor-extreme-bueno-volviste-12-05-10/768789/>`_
+      -  `Extreme, ¡qué bueno que volviste! <http://www.rtve.es/alacarta/audios/rock-reaktor/rock-reaktor-extreme-bueno-volviste-12-05-10/768789/>`_
       -  `59:55 <http://mvod.lvlt.rtve.es/resources/TE_SROCKRE/mp3/2/6/1273647427662.mp3>`_
       -  32%
       -  12 may 2010
@@ -996,7 +996,7 @@ Rock Reaktor Archive
       -  32%
       -  21 abr 2010
     * -  151
-      -  `Los viejos rockeros nunca mueren  <http://www.rtve.es/alacarta/audios/rock-reaktor/rock-reaktor-viejos-rockeros-nunca-mueren-19-04-10/748465/>`_
+      -  `Los viejos rockeros nunca mueren <http://www.rtve.es/alacarta/audios/rock-reaktor/rock-reaktor-viejos-rockeros-nunca-mueren-19-04-10/748465/>`_
       -  `58:29 <http://mvod.lvlt.rtve.es/resources/TE_SROCKRE/mp3/3/4/1271668731643.mp3>`_
       -  32%
       -  19 abr 2010
@@ -1006,7 +1006,7 @@ Rock Reaktor Archive
       -  32%
       -  14 abr 2010
     * -  149
-      -  `Tee Pee Records: Psicodelia Stoner  <http://www.rtve.es/alacarta/audios/rock-reaktor/rock-reaktor-tee-pee-records-psicodelia-stoner-12-04-10/742381/>`_
+      -  `Tee Pee Records: Psicodelia Stoner <http://www.rtve.es/alacarta/audios/rock-reaktor/rock-reaktor-tee-pee-records-psicodelia-stoner-12-04-10/742381/>`_
       -  `59:54 <http://mvod.lvlt.rtve.es/resources/TE_SROCKRE/mp3/9/4/1271063358249.mp3>`_
       -  32%
       -  12 abr 2010
@@ -1016,12 +1016,12 @@ Rock Reaktor Archive
       -  32%
       -  31 mar 2010
     * -  147
-      -  `¡Ese Punk Emo, que no falte!   <http://www.rtve.es/alacarta/audios/rock-reaktor/rock-reaktor-ese-punk-emo-falte-29-03-10/731673/>`_
+      -  `¡Ese Punk Emo, que no falte! <http://www.rtve.es/alacarta/audios/rock-reaktor/rock-reaktor-ese-punk-emo-falte-29-03-10/731673/>`_
       -  `1:03:00 <http://mvod.lvlt.rtve.es/resources/TE_SROCKRE/mp3/1/9/1269829093991.mp3>`_
       -  32%
       -  29 mar 2010
     * -  146
-      -  `The Punisher- War Zone B.S.O.  <http://www.rtve.es/alacarta/audios/rock-reaktor/rock-reaktor-the-punisher-war-zone-bso-24-03-10/727540/>`_
+      -  `The Punisher- War Zone B.S.O. <http://www.rtve.es/alacarta/audios/rock-reaktor/rock-reaktor-the-punisher-war-zone-bso-24-03-10/727540/>`_
       -  `59:55 <http://mvod.lvlt.rtve.es/resources/TE_SROCKRE/mp3/6/3/1269423998736.mp3>`_
       -  32%
       -  24 mar 2010
@@ -1041,12 +1041,12 @@ Rock Reaktor Archive
       -  32%
       -  15 mar 2010
     * -  142
-      -  `Obras Maestras del directo: Kiss  <http://www.rtve.es/alacarta/audios/rock-reaktor/rock-reaktor-obras-maestras-del-directo-kiss-alive-ii-10-03-10/715113/>`_
+      -  `Obras Maestras del directo: Kiss <http://www.rtve.es/alacarta/audios/rock-reaktor/rock-reaktor-obras-maestras-del-directo-kiss-alive-ii-10-03-10/715113/>`_
       -  `1:03:00 <http://mvod.lvlt.rtve.es/resources/TE_SROCKRE/mp3/1/4/1268191142241.mp3>`_
       -  32%
       -  10 mar 2010
     * -  141
-      -  `Un poco de Post-Rock es mucho  <http://www.rtve.es/alacarta/audios/rock-reaktor/rock-reaktor-poco-post-rock-mucho-08-03-10/712894/>`_
+      -  `Un poco de Post-Rock es mucho <http://www.rtve.es/alacarta/audios/rock-reaktor/rock-reaktor-poco-post-rock-mucho-08-03-10/712894/>`_
       -  `1:03:00 <http://mvod.lvlt.rtve.es/resources/TE_SROCKRE/mp3/8/5/1268018270258.mp3>`_
       -  32%
       -  08 mar 2010
@@ -1096,7 +1096,7 @@ Rock Reaktor Archive
       -  32%
       -  01 feb 2010
     * -  131
-      -  `Rocky Horror Punk Rock Show  <http://www.rtve.es/alacarta/audios/rock-reaktor/rock-reaktor-rocky-horror-punk-rock-show-27-01-10/678114/>`_
+      -  `Rocky Horror Punk Rock Show <http://www.rtve.es/alacarta/audios/rock-reaktor/rock-reaktor-rocky-horror-punk-rock-show-27-01-10/678114/>`_
       -  `1:03:00 <http://mvod.lvlt.rtve.es/resources/TE_SROCKRE/mp3/5/0/1264562272805.mp3>`_
       -  32%
       -  27 ene 2010
@@ -1121,7 +1121,7 @@ Rock Reaktor Archive
       -  32%
       -  13 ene 2010
     * -  126
-      -  `Todos se saben alguna de Metallica  <http://www.rtve.es/alacarta/audios/rock-reaktor/rock-reaktor-todos-se-saben-alguna-metallica-11-01-10/663825/>`_
+      -  `Todos se saben alguna de Metallica <http://www.rtve.es/alacarta/audios/rock-reaktor/rock-reaktor-todos-se-saben-alguna-metallica-11-01-10/663825/>`_
       -  `59:54 <http://mvod.lvlt.rtve.es/resources/TE_SROCKRE/mp3/3/8/1262973186483.mp3>`_
       -  32%
       -  11 ene 2010
@@ -1141,7 +1141,7 @@ Rock Reaktor Archive
       -  32%
       -  30 dic 2009
     * -  122
-      -  `Sello Make My Day Records!!  <http://www.rtve.es/alacarta/audios/rock-reaktor/rock-reaktor-sello-make-my-day-records-23-12-09/655251/>`_
+      -  `Sello Make My Day Records!! <http://www.rtve.es/alacarta/audios/rock-reaktor/rock-reaktor-sello-make-my-day-records-23-12-09/655251/>`_
       -  `1:03:00 <http://mvod.lvlt.rtve.es/resources/TE_SROCKRE/mp3/7/6/1261538278467.mp3>`_
       -  32%
       -  23 dic 2009
@@ -1321,7 +1321,7 @@ Rock Reaktor Archive
       -  32%
       -  22 jul 2009
     * -  86
-      -  `Rock Reaktor: ¡Que viva la radio!  <http://www.rtve.es/alacarta/audios/rock-reaktor/rock-reaktor-viva-radio-20-07-09/547424/>`_
+      -  `Rock Reaktor: ¡Que viva la radio! <http://www.rtve.es/alacarta/audios/rock-reaktor/rock-reaktor-viva-radio-20-07-09/547424/>`_
       -  `1:03:00 <http://mvod.lvlt.rtve.es/resources/TE_SROCKRE/mp3/8/0/1248056247708.mp3>`_
       -  32%
       -  20 jul 2009
@@ -1341,12 +1341,12 @@ Rock Reaktor Archive
       -  32%
       -  08 jul 2009
     * -  82
-      -  `¿ABBA con distorsión y cuero?  <http://www.rtve.es/alacarta/audios/rock-reaktor/rock-reaktor-abba-distorsion-cuero-06-07-09/537281/>`_
+      -  `¿ABBA con distorsión y cuero? <http://www.rtve.es/alacarta/audios/rock-reaktor/rock-reaktor-abba-distorsion-cuero-06-07-09/537281/>`_
       -  `59:55 <http://mvod.lvlt.rtve.es/resources/TE_SROCKRE/mp3/9/8/1246630740289.mp3>`_
       -  32%
       -  06 jul 2009
     * -  81
-      -  `Ferret Records, Metalcorepunkemo  <http://www.rtve.es/alacarta/audios/rock-reaktor/rock-reaktor-ferret-records-metalcorepunkemo-24-06-09/531202/>`_
+      -  `Ferret Records, Metalcorepunkemo <http://www.rtve.es/alacarta/audios/rock-reaktor/rock-reaktor-ferret-records-metalcorepunkemo-24-06-09/531202/>`_
       -  `1:03:00 <http://mvod.lvlt.rtve.es/resources/TE_SROCKRE/mp3/6/5/1245809802356.mp3>`_
       -  32%
       -  24 jun 2009
@@ -1366,7 +1366,7 @@ Rock Reaktor Archive
       -  32%
       -  15 jun 2009
     * -  77
-      -  `¿Rock y Locura? ¡Toma Primus!  <http://www.rtve.es/alacarta/audios/rock-reaktor/rock-reaktor-rock-locura-toma-primus-10-06-09/522476/>`_
+      -  `¿Rock y Locura? ¡Toma Primus! <http://www.rtve.es/alacarta/audios/rock-reaktor/rock-reaktor-rock-locura-toma-primus-10-06-09/522476/>`_
       -  `59:55 <http://mvod.lvlt.rtve.es/resources/TE_SROCKRE/mp3/9/9/1244556066999.mp3>`_
       -  32%
       -  10 jun 2009
@@ -1396,7 +1396,7 @@ Rock Reaktor Archive
       -  32%
       -  25 may 2009
     * -  71
-      -  `All Along the Watchtower Reloaded  <http://www.rtve.es/alacarta/audios/rock-reaktor/rock-reaktor-all-along-the-watchtower-reloaded-20-05-09/508712/>`_
+      -  `All Along the Watchtower Reloaded <http://www.rtve.es/alacarta/audios/rock-reaktor/rock-reaktor-all-along-the-watchtower-reloaded-20-05-09/508712/>`_
       -  1:03:00
       -  32%
       -  20 may 2009
@@ -1416,12 +1416,12 @@ Rock Reaktor Archive
       -  32%
       -  11 may 2009
     * -  67
-      -  `Los Punks escuchan Metallica  <http://www.rtve.es/alacarta/audios/rock-reaktor/rock-reaktor-punks-escuchan-metallica-06-05-09/499030/>`_
+      -  `Los Punks escuchan Metallica <http://www.rtve.es/alacarta/audios/rock-reaktor/rock-reaktor-punks-escuchan-metallica-06-05-09/499030/>`_
       -  `1:03:00 <http://mvod.lvlt.rtve.es/resources/TE_SROCKRE/mp3/3/3/1241576277733.mp3>`_
       -  32%
       -  06 may 2009
     * -  66
-      -  `Aerosmith ¡Vaya tunantes!  <http://www.rtve.es/alacarta/audios/rock-reaktor/rock-reaktor-aerosmith-vaya-tunantes-04-05-09/493444/>`_
+      -  `Aerosmith ¡Vaya tunantes! <http://www.rtve.es/alacarta/audios/rock-reaktor/rock-reaktor-aerosmith-vaya-tunantes-04-05-09/493444/>`_
       -  `59:55 <http://mvod.lvlt.rtve.es/resources/TE_SROCKRE/mp3/6/5/1241101204856.mp3>`_
       -  32%
       -  04 may 2009
@@ -1521,7 +1521,7 @@ Rock Reaktor Archive
       -  32%
       -  25 feb 2009
     * -  46
-      -  `La sepultura de Sepultura  <http://www.rtve.es/alacarta/audios/rock-reaktor/rock-reaktor-sepultura-sepultura-09-02-09/424364/>`_
+      -  `La sepultura de Sepultura <http://www.rtve.es/alacarta/audios/rock-reaktor/rock-reaktor-sepultura-sepultura-09-02-09/424364/>`_
       -  `59:55 <http://mvod.lvlt.rtve.es/resources/TE_SROCKRE/mp3/5/1/1235467740115.mp3>`_
       -  32%
       -  24 feb 2009
@@ -1531,7 +1531,7 @@ Rock Reaktor Archive
       -  32%
       -  20 feb 2009
     * -  44
-      -  `Los punks quieren ser raperos  <http://www.rtve.es/alacarta/audios/rock-reaktor/rock-reaktor-punks-quieren-ser-raperos-18-02-09/415049/>`_
+      -  `Los punks quieren ser raperos <http://www.rtve.es/alacarta/audios/rock-reaktor/rock-reaktor-punks-quieren-ser-raperos-18-02-09/415049/>`_
       -  `59:55 <http://mvod.lvlt.rtve.es/resources/TE_SROCKRE/mp3/7/4/1234947866047.mp3>`_
       -  32%
       -  18 feb 2009
@@ -1616,7 +1616,7 @@ Rock Reaktor Archive
       -  32%
       -  03 dic 2008
     * -  27
-      -  `Progresivo + Metal + Jazz = Cynic  <http://www.rtve.es/alacarta/audios/rock-reaktor/rock-reaktor-progresivo-metal-jazz-cynic-01-12-08/350753/>`_
+      -  `Progresivo + Metal + Jazz = Cynic <http://www.rtve.es/alacarta/audios/rock-reaktor/rock-reaktor-progresivo-metal-jazz-cynic-01-12-08/350753/>`_
       -  `59:55 <http://mvod.lvlt.rtve.es/resources/TE_SROCKRE/mp3/2/0/1227882384602.mp3>`_
       -  32%
       -  01 dic 2008
@@ -1631,7 +1631,7 @@ Rock Reaktor Archive
       -  32%
       -  18 nov 2008
     * -  24
-      -  `¿Qué hacías tú con 12 años?  <http://www.rtve.es/alacarta/audios/rock-reaktor/rock-reaktor-hacias-tu-12-anos-17-11-08/343551/>`_
+      -  `¿Qué hacías tú con 12 años? <http://www.rtve.es/alacarta/audios/rock-reaktor/rock-reaktor-hacias-tu-12-anos-17-11-08/343551/>`_
       -  `59:55 <http://mvod.lvlt.rtve.es/resources/TE_SROCKRE/mp3/7/1/1226941502817.mp3>`_
       -  32%
       -  17 nov 2008
@@ -1651,7 +1651,7 @@ Rock Reaktor Archive
       -  32%
       -  10 nov 2008
     * -  20
-      -  `¿Lo tiene un poco más raro?  <http://www.rtve.es/alacarta/audios/rock-reaktor/rock-reaktor-tiene-poco-mas-raro-05-11-08/331935/>`_
+      -  `¿Lo tiene un poco más raro? <http://www.rtve.es/alacarta/audios/rock-reaktor/rock-reaktor-tiene-poco-mas-raro-05-11-08/331935/>`_
       -  `59:32 <http://mvod.lvlt.rtve.es/resources/TE_SROCKRE/mp3/7/7/1225878326077.mp3>`_
       -  32%
       -  05 nov 2008
@@ -1731,7 +1731,7 @@ Rock Reaktor Archive
       -  32%
       -  15 sep 2008
     * -  4
-      -  `Rock patrio sin concesiones  <http://www.rtve.es/alacarta/audios/rock-reaktor/rock-reaktor-rock-patrio-sin-concesiones-10-09-08/283491/>`_
+      -  `Rock patrio sin concesiones <http://www.rtve.es/alacarta/audios/rock-reaktor/rock-reaktor-rock-patrio-sin-concesiones-10-09-08/283491/>`_
       -  `1:03:00 <http://mvod.lvlt.rtve.es/resources/TE_SROCKRE/mp3/7/8/1221013335187.mp3>`_
       -  32%
       -  10 sep 2008

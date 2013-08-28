@@ -28,27 +28,27 @@ for li in records[1:]: #  skip header row
     # show title and link
     col_title = li.find('span', class_='col_tit')
     a_title = col_title.find('a')
-    show['title'] = a_title.text
-    show['link'] = 'http://www.rtve.es' + a_title.get('href', '')
+    show['title'] = a_title.text.strip()
+    show['link'] = 'http://www.rtve.es' + a_title.get('href', '').strip()
 
     # audio (mp3) url
     show['audio'] = None
     col_audio = li.find('span', class_='col_tip')
     a = col_audio.find('a')
     if a:
-        show['audio'] = a.attrs.get('href', '')
+        show['audio'] = a.attrs.get('href', '').strip()
 
     # show duration
     col_duration = li.find('span', class_='col_dur')
-    show['duration'] = col_duration.text
+    show['duration'] = col_duration.text.strip()
 
     # show popularity however this is measured
     col_popularity = li.find('span', class_='col_pop')
-    show['popularity'] = col_popularity.text
+    show['popularity'] = col_popularity.text.strip()
 
     # show date
     col_date = li.find('span', class_='col_fec')
-    show['date'] = col_date.text
+    show['date'] = col_date.text.strip()
 
     shows.append(show)
 
