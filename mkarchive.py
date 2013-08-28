@@ -55,7 +55,7 @@ for li in records[1:]: #  skip header row
 # create reStructuredText
 doc = rst.Document('Rock Reaktor Archive')
 table = rst.Table(
-    'All `Rock Reaktor <http://www.rtve.es/alacarta/audios/rock-reaktor/>`_ shows',
+    'All `Rock Reaktor <http://www.rtve.es/alacarta/audios/rock-reaktor/>`_ shows from 2008-2013.',
     ['#', 'Episode title', 'Duration', 'Popularity', 'Date'])
 
 episode = len(shows)
