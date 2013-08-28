@@ -2,7 +2,7 @@
 Rock Reaktor Archive
 ====================
 
-.. list-table:: All `Rock Reaktor <http://www.rtve.es/alacarta/audios/rock-reaktor/>`_ shows
+.. list-table:: All `Rock Reaktor <http://www.rtve.es/alacarta/audios/rock-reaktor/>`_ shows from 2008-2013.
     :header-rows: 1
 
     * -  #
