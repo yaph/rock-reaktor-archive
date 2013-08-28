@@ -19,49 +19,58 @@ soup = BeautifulSoup(html, 'html.parser',
     parse_only=SoupStrainer(class_='ContentTabla'))
 
 shows = []
-for li in soup.findAll('li')[1:]: #  skip header row
+show_list = soup.find('ul')
+# only immediate child elements
+records = show_list.find_all('li', recursive=False)
+for li in records[1:]: #  skip header row
     show = {}
 
     # show title and link
     col_title = li.find('span', class_='col_tit')
-    if col_title is None:
-        continue
     a_title = col_title.find('a')
     show['title'] = a_title.text
-    show['link'] = 'http://www.rtve.es/' + a_title.attrs['href']
+    show['link'] = 'http://www.rtve.es' + a_title.get('href', '')
 
     # audio (mp3) url
+    show['audio'] = None
     col_audio = li.find('span', class_='col_tip')
-    if col_audio:
-        a = col_audio.find('a')
-        if a is None:
-            continue
-        show['audio'] = a.attrs['href']
+    a = col_audio.find('a')
+    if a:
+        show['audio'] = a.attrs.get('href', '')
 
     # show duration
     col_duration = li.find('span', class_='col_dur')
-    if col_duration is None:
-        continue
     show['duration'] = col_duration.text
 
     # show popularity however this is measured
     col_popularity = li.find('span', class_='col_pop')
-    if col_popularity is None:
-        continue
     show['popularity'] = col_popularity.text
+
+    # show date
+    col_date = li.find('span', class_='col_fec')
+    show['date'] = col_date.text
 
     shows.append(show)
 
 # create reStructuredText
 doc = rst.Document('Rock Reaktor Archive')
-table = rst.Table('All shows', ['Title', 'Duration', 'Popularity'])
+table = rst.Table(
+    'All `Rock Reaktor <http://www.rtve.es/alacarta/audios/rock-reaktor/>`_ shows',
+    ['#', 'Episode title', 'Duration', 'Popularity', 'Date'])
 
+episode = len(shows)
 for show in shows:
+    if show['audio']:
+        col_audio = '`%s <%s>`_' % (show['duration'], show['audio'])
+    else:
+        col_audio = show['duration']
     table.add_item(
-        ('`%s <%s>`_' % (show['title'], show['link']),
-         '`%s <%s>`_' % (show['duration'], show['audio']),
-         show['popularity'])
-    )
+        ('%d' % episode,
+         '`%s <%s>`_' % (show['title'], show['link']),
+         col_audio,
+         show['popularity'],
+         show['date']))
+    episode -= 1
 
 doc.add_child(table)
 with open('README.rst', 'w') as f:
