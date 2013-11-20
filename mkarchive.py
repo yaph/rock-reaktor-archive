@@ -58,10 +58,13 @@ table = rst.Table(
     'All `Rock Reaktor <http://www.rtve.es/alacarta/audios/rock-reaktor/>`_ shows from 2008-2013.',
     ['#', 'Episode title', 'Duration', 'Popularity', 'Date'])
 
+audio_links = []
+
 episode = len(shows)
 for show in shows:
     if show['audio']:
         col_audio = '`%s <%s>`_' % (show['duration'], show['audio'])
+        audio_links.append(show['audio'])
     else:
         col_audio = show['duration']
     table.add_item(
@@ -75,3 +78,7 @@ for show in shows:
 doc.add_child(table)
 with open('README.rst', 'w') as f:
     f.write(doc.get_rst().encode('utf-8'))
+
+# write list of audio files for wget download
+with open('audio_urls.txt', 'w') as f:
+    f.write('\n'.join(audio_links))

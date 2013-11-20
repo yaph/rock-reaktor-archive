@@ -11,10 +11,10 @@ Rock Reaktor Archive
       -  Popularity
       -  Date
     * -  348
-      -  `Nuevo The End <http://www.rtve.es/alacarta/audios/rock-reaktor/rock-reaktor-the-end-26-08-13/2005532/>`_
+      -  `The End <http://www.rtve.es/alacarta/audios/rock-reaktor/rock-reaktor-the-end-26-08-13/2005532/>`_
       -  `58:50 <http://mvod.lvlt.rtve.es/resources/TE_SROCKRE/mp3/6/8/1377499936486.mp3>`_
       -  59%
-      -  pasado lunes
+      -  26 ago 2013
     * -  347
       -  `At the Gates en directo <http://www.rtve.es/alacarta/audios/rock-reaktor/rock-reaktor-at-the-gates-directo-29-07-13/1964538/>`_
       -  `59:09 <http://mvod.lvlt.rtve.es/resources/TE_SROCKRE/mp3/0/2/1375080489920.mp3>`_
